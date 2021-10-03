@@ -1,11 +1,11 @@
 {
-    "name": "WhatsAsenaDuplicated",
-    "description": "WhatsAsena project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
-    "logo": "https://i.hizliresim.com/6Bbj7i.jpg",
-    "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai", "asena", "ai-bot", "AsenaDev", "wabot", "wabot asena", "wp bot"],
-    "repository": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated",
-    "website":   "https://t.me/phaticusthiccy",
-    "success_url": "https://t.me/AsenaSupport",
+    "name": "InvenTorfilxsDuplicated",
+    "description": "InvenTorfilxs project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
+    "logo": "",
+    "keywords": ["whatsapp", "userbot", "InvenTorfilxs", "WhatsAsena", "bot", "api", "ai", "asena", "ai-bot", "AsenaDev", "wabot", "wabot asena", "wp bot"],
+    "repository": "https://github.com/aliyefhx/InvenTorfilxs",
+    "website":   "https://t.me/aliyefh_sos",
+    "success_url": "https://t.me/aliyefh_sos",
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
@@ -19,7 +19,7 @@
         "LANGUAGE": {
             "description": "Bot language. Azerice => az, English => en, Türkçe => tr, Malayalam => ml, Hindi => HI, Indonesia => ID, Español => ES, Portuguese => pt, Russian => ru",
             "required": true,
-            "value": "TR"
+            "value": "az"
         },
         "PROXY": {
             "description": "Proxy Adresi. Proxy Address => http://some-host:1234",
