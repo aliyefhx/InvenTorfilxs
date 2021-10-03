@@ -105,7 +105,7 @@ the user is responsible.
 ## 📢 Guide
 > [Also for support & help please come our Telegram group.](https://t.me/AsenaSupport)
 
-> [Install Guide/Kurulum Yardımcısı/Qurulum Müavin](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
+> [Install Guide/Kurulum Yardımcısı/Qurulum Müavin](https://github.com/aliyefhx/InvenTorfilxs)
 
 ## 🔎 What is WhatsAsena?
 **WhatsAsena,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and Developed by [Phaticusthiccy](https://github.com/phaticusthiccy). Does not log into your account It is written on WhatsApp Web API.
@@ -123,7 +123,7 @@ the user is responsible.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aliyefhx/InvenTorfilxs)
 
-> [WhatsAsena Wiki (Full Guide)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki) 
+> [WhatsAsena Wiki (Full Guide)](https://github.com/aliyefhx/InvenTorfilxs) 
 
 ### The Hard Method (Not Recommend)
 ```js
@@ -139,7 +139,7 @@ $ node bot.js
 ##
 
 ### ⚒️ Setup Wiki - Kurulum [Full Guide - Tam Anlatım]
-[![Setup - Kurulum](https://img.icons8.com/clouds/190/000000/settings.png)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
+[![Setup - Kurulum](https://img.icons8.com/clouds/190/000000/settings.png)](https://github.com/aliyefhx/InvenTorfilxs)
 
 ##
 
@@ -158,7 +158,7 @@ If you are concerned about security, you can install it on your own computer. If
 Yes. WhatsAsena comes with more than 170 internal command. Which including unique packages, machine learning AIs, fastly tools etc.. Users can add new features their bots. Check our [telegram group](https://t.me/AsenaSupport) .
 
 ### 🛡️ Cyber Attack Protection?
-Only original [WhatsAsena](https://github.com/phaticusthiccy/WhatsAsenaDuplicated) do this. It has own unique protection style inside WhatsAsena's database. It protect your phone from WhatApp attacks. Thats mean all fake creations carries a big risk for users privacy.
+Only original [InvenTorfilxs](https://github.com/aliyefhx/InvenTorfilxs) do this. It has own unique protection style inside WhatsAsena's database. It protect your phone from WhatApp attacks. Thats mean all fake creations carries a big risk for users privacy.
 
 ### 🧠 What is Eva Neural AI?
 **Eva** is powered with neural networks, artificial brain cells and brain that can remember conversation. **Eva** developed by me for like a virtual assistants. __(Siri, Sam, Tesla etc..)__ 
