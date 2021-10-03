@@ -24,7 +24,7 @@
 
   </a>
   <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Lisance&style=plastic">
+    <img src="https://img.shields.io/github/license/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Lisance&style=plastic"
 
   </a>
   <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated">
@@ -122,7 +122,7 @@ the user is responsible.
 
 [![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aliyefhx/InvenTorfilxs)
 
 > [WhatsAsena Wiki (Full Guide)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki) 
 
